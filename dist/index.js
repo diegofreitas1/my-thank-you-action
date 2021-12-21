@@ -6,9 +6,9 @@
 /************************************************************************/
 var __webpack_exports__ = {};
 async function run() {
-    console.log('Hello world!');
-}
-
+    console.log('Hello, world!');
+  }
+  
 run();
 module.exports = __webpack_exports__;
 /******/ })()
